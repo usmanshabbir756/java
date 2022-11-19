@@ -10,6 +10,9 @@ public class Variable {
         float num3=0.5f;
         double num4=0.456;
         char alphabet='A';
-        System.out.println(alphabet);
+        boolean a=true;
+        long number=53455435354L;
+        String name="usman";
+        System.out.println(alphabet + " " +num1);
     }
 }
