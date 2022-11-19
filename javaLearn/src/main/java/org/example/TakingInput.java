@@ -10,6 +10,5 @@ public class TakingInput {
         System.out.println("Hello "+ fName + lName);
 
 
-
     }
 }
