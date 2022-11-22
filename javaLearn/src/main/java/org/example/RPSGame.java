@@ -22,6 +22,4 @@ public class RPSGame {
         }
         System.out.println("computer choice : " + b);
     }
-
-
 }
