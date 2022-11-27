@@ -5,7 +5,7 @@ public class Array {
         Scanner sc=new Scanner(System.in);
 //    //sum of float in array
 //    float sum=0;
-//    float [] num1={1.8f,3.5f,5.5f,2.2f};
+//    float [] num1={1.8f,3.5f,5.5f,2.2f};      float [] num1=new int[5];
 //    for(float element: num1){
 //        sum+=element;
 //    }
@@ -85,7 +85,7 @@ public class Array {
 //        System.out.println(min);
 //
 
-
+        
 
     }
 }
